@@ -6,10 +6,15 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileReference section */
+		297832122CC9522E002B1D5C /* SystemManager.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SystemManager.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		2978320B2CC9520E002B1D5C = {
 			isa = PBXGroup;
 			children = (
+				297832122CC9522E002B1D5C /* SystemManager.playground */,
 			);
 			sourceTree = "<group>";
 		};
